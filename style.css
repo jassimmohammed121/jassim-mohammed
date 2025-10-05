@@ -1,0 +1,100 @@
+P{font-family:times new roman, arial;
+  font-size:7px;
+    color:red;
+
+  
+}
+header{
+  background:linear-gradient(to left, lightblue,
+  gray);
+}
+
+header {
+  padding:60px;
+  margin-bottom: 20px;
+  border: 60px lightblue;
+  
+}
+ 
+table{table
+padding: 80px;
+margin-bottom:50px;
+border: 80px red;
+}
+
+#nav{}
+
+h1 {font-family:segoe ui,arial, time now roman;
+  
+  font-size: 50px;
+  letter-spacing: 9px;
+  color:blue;
+  font-weight: bold;
+  text-align: center;
+  background-color: lightgray;
+  border: 2px solid black;
+  
+
+}
+nav {border: 4px solid black;
+background-color: lightgray;
+
+}
+
+ul {display: flex;
+justify-content:center;
+margin: 0;
+pading: 0;
+gap:50px;
+}
+
+a{text-decoration:none;
+letter-spacing: 3px;
+color: black;
+display: flex;
+font-family: times new roman, arial;
+  font-size: 18px;
+justify-content: center;
+}
+
+
+h2{front-family: segoe ui, arial;
+margin: 18px;
+pading: 18px;
+font-size: 18px;
+text-align: center;
+color: solidblack;
+
+}
+
+table {border-collapse: collapse;
+wight:40px;
+height:20px;
+font-family: segoe ui, arial;
+background-color: lightgray; 
+font-size: 20px;
+text-align: center:
+ margin-left: auto;
+ margin-right: auto: 
+
+
+
+
+}
+
+
+  
+ text-align
+
+
+}
+  
+
+  
+  
+ 
+}
+table{
+  
+}
+
