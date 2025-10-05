@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html> 
   <title> welcome to class </title> 
-<head> </head>
+<head>
+<link rel=stylesheet" href= "style.csss" </link>
+</head>
 <body>
   <header>
     <h1> welcom to class </h1> <hr>
