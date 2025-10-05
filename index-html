@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html> 
+  <title> welcome to class </title> 
+<head> </head>
+<body>
+  <header>
+    <h1> welcom to class </h1> <hr>
+    <p> class timing. 
+      
+      <br> sunday: 2 to 3 
+      <br> monday: 4 to 6 
+      <br> tuesday: 6 to 9
+      <br> wednesday: 3 to 5
+      <br> thursday: 4 to 7
+    <hr> 
+    <br> tutor info: <br> 
+    tutor email:
+    <br> jassim.mohd@gmail.com
+    <hr>
+    
+    </p>
+  </header> 
+  
+  
+  
+  <nav id= nav>
+    <ul>
+      <li><a href="about me"> about me </a>
+    <li> <a href="my class timing "> my class timing</a>
+      <li> <a href="cantact me"> contact me</a>
+        <hr>
+        
+    </ul>
+  </nav>
+  
+  <table border="6">
+   
+    <tr>
+      <th>class timing </th>
+      
+    
+    
+      <th> sunday 2 to 3</th>
+      <th> monday 4 to 6 </th>
+    <th> tuesday: 6 t 9 </th>
+    
+    <tr/>
+    
+  </table>
+      
+ 
+  <section id="media">
+    <h2> video </h2>
+    <iframe width="400"height="300" src="https://www.youtube.com/embed/5696n4ucJUo?si=6D2i0O5280ajx6sp"
+             title= "youtube video"
+             frameborder=0>
+      </iframe>
+      </section>
+  
+  
+  
+  
+  
+  
+  
+</body>
+<footer>
+  <p> 2025. all rights reserved
+</footer>
+</html>
